@@ -1,0 +1,1 @@
+[kw float] [id x1] [op =] [num 3.125] [sep ;] [sep ;] [sep ;] [kw double] [id f1] [par (] [kw float] [id a] [sep ,] [kw int] [id x] [par )] [par )] [par {] [kw if] [par (] [id x] [sep <] [id x1] [par )] [kw double] [id z] [sep ;] [sep ;] [kw else] [id z] [op =] [num 0.01] [sep ;] [par }] [kw else] [kw return] [kw return] [id z] [sep ;] [par }] 
